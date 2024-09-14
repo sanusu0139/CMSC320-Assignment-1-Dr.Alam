@@ -9,3 +9,7 @@ Answer: Data science could be useful in the field of Healthcare. Applying data s
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merge keeps the commit sequence intact by combining the histories of two branches into one. Rebasing rewrites the history by putting the changes from one branch at the beginning of another, resulting in a more linear project history. 
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my understanding of data science and how I can use it in my future career.
